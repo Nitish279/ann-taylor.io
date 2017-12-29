@@ -131,6 +131,7 @@ body {
 
 .main_banner_block{
 	position: relative;
+	margin: 16px auto;
 }
 
 .main_banner_block,
