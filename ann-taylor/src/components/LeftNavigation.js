@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Container, Row, Col } from 'reactstrap';
 
 class LeftNavigation extends Component {
 	render() {
@@ -29,6 +28,10 @@ class LeftNavigation extends Component {
 									<a href="https://www.anntaylor.com/luxewear-accessories/cat3750004?https%2525253A%2525252F%2525252Fwww.anntaylor.com%2525252Fluxewear-accessories%2525252Fcat3750004=undefined"> Luxewear Accessories</a>
 								</dd>
 							</dl>
+						</div>
+
+						<div className="add_img_block" >
+							<img className="img-responsive" src="https://www.anntaylor.com/webassets/content/ann/nav/010118-leftnav-60nfp-flash-1.png" alt="Add Banner" />
 						</div>
 					</div>
 				</div>
