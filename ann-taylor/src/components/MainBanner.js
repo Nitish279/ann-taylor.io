@@ -2,43 +2,49 @@ import React, { Component } from 'react';
 import { Container, Row } from 'reactstrap';
 import YouTube from 'react-youtube';
 
-
 class BannerImg extends React.Component {
-constructor(props) {
-		super(props);
+	constructor() {
+		super();
 		this.state = {
 			showPoster: true
 		};
 	}
-	hideMainBannerImage(){
-		console.log("hello");
-		console.log();
+
+	hideMainBannerImage = () => {
+	    this.setState({ showPoster: false });
 	}
-  render() {
-    return (
-		<div>
-			<Container>
-				<Row>
-					<img 
-						src="https://www.anntaylor.com/webassets/content/ann/landing/luxewear/luxewear_hdr_desktop_091517.jpg" 
-						alt="India" 
-						className="img-responsive"
-						onClick={this.hideMainBannerImage}
-					/>
-				</Row>
-			</Container>
-		</div>
-    );
-  }
-} 
+
+  	render() {
+	    return (
+			<div>
+				<Container>
+					<Row>
+						<div className="main_banner_block">
+							<img 
+								src="https://www.anntaylor.com/webassets/content/ann/landing/luxewear/luxewear_hdr_desktop_091517.jpg" 
+								alt="India" 
+								className="img-responsive"
+								style={{display: this.state.showPoster ? 'block' : 'none'}}
+								onClick={this.hideMainBannerImage.bind(this)}
+							/>
+						</div>
+					</Row>
+				</Container>
+			</div>
+	    );
+  	}
+};
 
 
 class MainBanner extends Component {
-	constructor(props) {
-		super(props);
-		this.state = {
-			showPoster: true
-		};
+
+	_onReady = (event) => {
+		event.target.pauseVideo();
+	}
+
+	playVideo = (event) => {
+		event.target.playVideo();
+		console.log("Hello");
 	}
 
 	render() {
@@ -54,8 +60,7 @@ class MainBanner extends Component {
 				<Container>
 					<Row>
 						<div className="main_banner_block">
-							{ this.state.showPoster ? <BannerImg /> : null }
-
+							<BannerImg onClick={this.playVideo.bind(this)} />
 							<YouTube
 								videoId="vfj0rObjO_M"
 								opts={opts}
@@ -67,9 +72,6 @@ class MainBanner extends Component {
 			</div>
 		);
 	};
-	_onReady(event) {
-		event.target.pauseVideo();
-	}
 };
 
-export default MainBanner;
+export default MainBanner; 
