@@ -1,0 +1,4095 @@
+{
+    "searchAdjustments": {
+        "@type": "SearchAdjustments"
+    },
+    "navigation": {
+        "navigation": [
+            {
+                "refinements": [
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957741",
+                        "contentPath": "/guidedsearch",
+                        "count": 10,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "All Accessories",
+                        "properties": {
+                            "dimValId": "4294957741"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957160",
+                        "contentPath": "/guidedsearch",
+                        "count": 1,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Coats",
+                        "properties": {
+                            "dimValId": "4294957160"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957780",
+                        "contentPath": "/guidedsearch",
+                        "count": 7,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Dresses",
+                        "properties": {
+                            "dimValId": "4294957780"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957765",
+                        "contentPath": "/guidedsearch",
+                        "count": 5,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Jackets",
+                        "properties": {
+                            "dimValId": "4294957765"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957775",
+                        "contentPath": "/guidedsearch",
+                        "count": 10,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Pants",
+                        "properties": {
+                            "dimValId": "4294957775"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957734",
+                        "contentPath": "/guidedsearch",
+                        "count": 2,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Scarves",
+                        "properties": {
+                            "dimValId": "4294957734"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957758",
+                        "contentPath": "/guidedsearch",
+                        "count": 5,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Skirts",
+                        "properties": {
+                            "dimValId": "4294957758"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957771",
+                        "contentPath": "/guidedsearch",
+                        "count": 20,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Sweaters",
+                        "properties": {
+                            "dimValId": "4294957771"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957794",
+                        "contentPath": "/guidedsearch",
+                        "count": 19,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Tops + Blouses",
+                        "properties": {
+                            "dimValId": "4294957794"
+                        }
+                    }
+                ],
+                "multiSelect": true,
+                "priority": "0",
+                "@type": "RefinementMenu",
+                "name": "category",
+                "ancestors": [],
+                "displayName": "category",
+                "dimensionName": "category",
+                "whyPrecedenceRuleFired": null
+            },
+            {
+                "refinements": [
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8571_00&N=125370+4294959848",
+                        "contentPath": "/guidedsearch",
+                        "count": 5,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8571_00",
+                        "properties": {
+                            "dimValId": "4294959848"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8572_0&N=125370+4294959855",
+                        "contentPath": "/guidedsearch",
+                        "count": 7,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8572_0",
+                        "properties": {
+                            "dimValId": "4294959855"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8578_2&N=125370+4294959854",
+                        "contentPath": "/guidedsearch",
+                        "count": 6,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8578_2",
+                        "properties": {
+                            "dimValId": "4294959854"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8585_4&N=125370+4294959853",
+                        "contentPath": "/guidedsearch",
+                        "count": 5,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8585_4",
+                        "properties": {
+                            "dimValId": "4294959853"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8594_6&N=125370+4294959863",
+                        "contentPath": "/guidedsearch",
+                        "count": 5,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8594_6",
+                        "properties": {
+                            "dimValId": "4294959863"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8607_8&N=125370+4294959852",
+                        "contentPath": "/guidedsearch",
+                        "count": 5,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8607_8",
+                        "properties": {
+                            "dimValId": "4294959852"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8620_10&N=125370+4294959857",
+                        "contentPath": "/guidedsearch",
+                        "count": 5,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8620_10",
+                        "properties": {
+                            "dimValId": "4294959857"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8629_12&N=125370+4294959851",
+                        "contentPath": "/guidedsearch",
+                        "count": 5,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8629_12",
+                        "properties": {
+                            "dimValId": "4294959851"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8636_14&N=125370+4294959850",
+                        "contentPath": "/guidedsearch",
+                        "count": 5,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8636_14",
+                        "properties": {
+                            "dimValId": "4294959850"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8643_16&N=125370+4294959847",
+                        "contentPath": "/guidedsearch",
+                        "count": 6,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8643_16",
+                        "properties": {
+                            "dimValId": "4294959847"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8647_18&N=125370+4294959824",
+                        "contentPath": "/guidedsearch",
+                        "count": 6,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8647_18",
+                        "properties": {
+                            "dimValId": "4294959824"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8670_XXS&N=125370+4294959807",
+                        "contentPath": "/guidedsearch",
+                        "count": 46,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8670_XXS",
+                        "properties": {
+                            "dimValId": "4294959807"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8693_XS&N=125370+4294959830",
+                        "contentPath": "/guidedsearch",
+                        "count": 47,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8693_XS",
+                        "properties": {
+                            "dimValId": "4294959830"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8696_S&N=125370+4294959837",
+                        "contentPath": "/guidedsearch",
+                        "count": 45,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8696_S",
+                        "properties": {
+                            "dimValId": "4294959837"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8698_M&N=125370+4294959836",
+                        "contentPath": "/guidedsearch",
+                        "count": 47,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8698_M",
+                        "properties": {
+                            "dimValId": "4294959836"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8699_L&N=125370+4294957440",
+                        "contentPath": "/guidedsearch",
+                        "count": 51,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8699_L",
+                        "properties": {
+                            "dimValId": "4294957440"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8702_XL&N=125370+4294959834",
+                        "contentPath": "/guidedsearch",
+                        "count": 52,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8702_XL",
+                        "properties": {
+                            "dimValId": "4294959834"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8703_XXL&N=125370+4294959811",
+                        "contentPath": "/guidedsearch",
+                        "count": 48,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8703_XXL",
+                        "properties": {
+                            "dimValId": "4294959811"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Size=8706_One+Size&N=125370+4294959810",
+                        "contentPath": "/guidedsearch",
+                        "count": 12,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "8706_One Size",
+                        "properties": {
+                            "dimValId": "4294959810"
+                        }
+                    }
+                ],
+                "multiSelect": true,
+                "priority": "1",
+                "@type": "RefinementMenu",
+                "name": "Size",
+                "ancestors": [],
+                "displayName": "Size",
+                "dimensionName": "childSKUs.sizeCode.sizeAbbreviation",
+                "whyPrecedenceRuleFired": null
+            },
+            {
+                "refinements": [
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Color=Beige&N=125370+4294962113",
+                        "contentPath": "/guidedsearch",
+                        "count": 1,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Beige",
+                        "properties": {
+                            "dimValId": "4294962113",
+                            "colorFamilyId": "168"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Color=Black&N=125370+4294962120",
+                        "contentPath": "/guidedsearch",
+                        "count": 32,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Black",
+                        "properties": {
+                            "dimValId": "4294962120",
+                            "colorFamilyId": "10"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Color=Blue&N=125370+4294962118",
+                        "contentPath": "/guidedsearch",
+                        "count": 17,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Blue",
+                        "properties": {
+                            "dimValId": "4294962118",
+                            "colorFamilyId": "161"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Color=Brown&N=125370+4294962119",
+                        "contentPath": "/guidedsearch",
+                        "count": 4,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Brown",
+                        "properties": {
+                            "dimValId": "4294962119",
+                            "colorFamilyId": "14"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Color=Green&N=125370+4294962105",
+                        "contentPath": "/guidedsearch",
+                        "count": 5,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Green",
+                        "properties": {
+                            "dimValId": "4294962105",
+                            "colorFamilyId": "3"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Color=Grey&N=125370+4294962121",
+                        "contentPath": "/guidedsearch",
+                        "count": 24,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Grey",
+                        "properties": {
+                            "dimValId": "4294962121",
+                            "colorFamilyId": "11"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Color=Ivory&N=125370+4294962117",
+                        "contentPath": "/guidedsearch",
+                        "count": 9,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Ivory",
+                        "properties": {
+                            "dimValId": "4294962117",
+                            "colorFamilyId": "17"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Color=Neutral&N=125370+4294962109",
+                        "contentPath": "/guidedsearch",
+                        "count": 4,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Neutral",
+                        "properties": {
+                            "dimValId": "4294962109",
+                            "colorFamilyId": "16"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Color=Pink&N=125370+4294962107",
+                        "contentPath": "/guidedsearch",
+                        "count": 5,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Pink",
+                        "properties": {
+                            "dimValId": "4294962107",
+                            "colorFamilyId": "19"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Color=Purple&N=125370+4294962114",
+                        "contentPath": "/guidedsearch",
+                        "count": 4,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Purple",
+                        "properties": {
+                            "dimValId": "4294962114",
+                            "colorFamilyId": "9"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Color=Red&N=125370+4294962110",
+                        "contentPath": "/guidedsearch",
+                        "count": 2,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "Red",
+                        "properties": {
+                            "dimValId": "4294962110",
+                            "colorFamilyId": "2"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?Color=White&N=125370+4294962116",
+                        "contentPath": "/guidedsearch",
+                        "count": 3,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "White",
+                        "properties": {
+                            "dimValId": "4294962116",
+                            "colorFamilyId": "4"
+                        }
+                    }
+                ],
+                "multiSelect": true,
+                "priority": "3",
+                "@type": "RefinementMenu",
+                "name": "Color",
+                "ancestors": [],
+                "displayName": "Color",
+                "dimensionName": "childSKUs.skuData2.colorCode.parentColorFamilies.colorFamilyName",
+                "whyPrecedenceRuleFired": null
+            },
+            {
+                "refinements": [
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957783",
+                        "contentPath": "/guidedsearch",
+                        "count": 2,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "35-40",
+                        "properties": {
+                            "dimValId": "4294957783"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957767",
+                        "contentPath": "/guidedsearch",
+                        "count": 1,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "40-45",
+                        "properties": {
+                            "dimValId": "4294957767"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957777",
+                        "contentPath": "/guidedsearch",
+                        "count": 6,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "45-50",
+                        "properties": {
+                            "dimValId": "4294957777"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957786",
+                        "contentPath": "/guidedsearch",
+                        "count": 10,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "55-60",
+                        "properties": {
+                            "dimValId": "4294957786"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957795",
+                        "contentPath": "/guidedsearch",
+                        "count": 15,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "65-70",
+                        "properties": {
+                            "dimValId": "4294957795"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957797",
+                        "contentPath": "/guidedsearch",
+                        "count": 12,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "75-80",
+                        "properties": {
+                            "dimValId": "4294957797"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957774",
+                        "contentPath": "/guidedsearch",
+                        "count": 6,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "85-90",
+                        "properties": {
+                            "dimValId": "4294957774"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957776",
+                        "contentPath": "/guidedsearch",
+                        "count": 11,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "95-100",
+                        "properties": {
+                            "dimValId": "4294957776"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957761",
+                        "contentPath": "/guidedsearch",
+                        "count": 2,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "105-110",
+                        "properties": {
+                            "dimValId": "4294957761"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957763",
+                        "contentPath": "/guidedsearch",
+                        "count": 2,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "115-120",
+                        "properties": {
+                            "dimValId": "4294957763"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957781",
+                        "contentPath": "/guidedsearch",
+                        "count": 2,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "125-130",
+                        "properties": {
+                            "dimValId": "4294957781"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957766",
+                        "contentPath": "/guidedsearch",
+                        "count": 3,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "135-140",
+                        "properties": {
+                            "dimValId": "4294957766"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957779",
+                        "contentPath": "/guidedsearch",
+                        "count": 3,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "145-150",
+                        "properties": {
+                            "dimValId": "4294957779"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957760",
+                        "contentPath": "/guidedsearch",
+                        "count": 2,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "155-160",
+                        "properties": {
+                            "dimValId": "4294957760"
+                        }
+                    },
+                    {
+                        "multiSelect": true,
+                        "navigationState": "/all-luxewear/cat3750001/?N=125370+4294957472",
+                        "contentPath": "/guidedsearch",
+                        "count": 2,
+                        "@class": "com.endeca.infront.cartridge.model.Refinement",
+                        "siteRootPath": "/services",
+                        "label": "245-250",
+                        "properties": {
+                            "dimValId": "4294957472"
+                        }
+                    }
+                ],
+                "multiSelect": true,
+                "priority": "4",
+                "@type": "RefinementMenu",
+                "name": "priceRange",
+                "ancestors": [],
+                "displayName": "priceRange",
+                "dimensionName": "priceRange",
+                "whyPrecedenceRuleFired": null
+            }
+        ],
+        "@type": "NavigationContainer"
+    },
+    "@type": "GuidedSearchService",
+    "name": "Guided Search Service",
+    "endeca:contentPath": "/guidedsearch",
+    "atg:currentSiteProductionURL": "anntaylor.com",
+    "resultsList": {
+        "IsSuperCatNav": false,
+        "seoKeywords": "",
+        "sortOptions": [],
+        "navImage": "",
+        "recsPerPage": 18,
+        "headerSlot": "<script src=\"/webassets/content/ann/landing/video/g3lazyload.youtube.js\" type=\"text/javascript\"></script>\n\n<img src=\"/webassets/content/ann/landing/luxewear/luxewear_hdr_desktop_091517.jpg\" alt=\"Luxewear\" data-yt=\"vfj0rObjO_M\">\n\n<script type=\"application/ld+json\">\n{\n\"@context\": \"http://schema.org\",\n\"@type\": \"VideoObject\",\n\"name\": \"Introducing Luxewear\",\n\"description\": \"Every day. Every wear. Effortless but elegant. Luxe but laid back. This is Your Real-Life Uniform. This is Luxewear.\",\n\"thumbnailUrl\": \"https://www.anntaylor.com/webassets/content/ann/landing/luxewear/luxewear_hdr_desktop_091517.jpg\",\n\"uploadDate\": \"2017-09-08\",\n\"duration\": \"T50S\",\n\"publisher\": {\n\"@type\": \"Organization\",\n\"name\": \"Ann Taylor\",\n\"logo\":\n{ \"@type\": \"ImageObject\", \"url\": \"https://www.anntaylor.com/webassets/annpl/img/logo_site.png\", \"width\": 212, \"height\": 18 }\n},\n\"embedUrl\": \"https://www.youtube.com/embed/vfj0rObjO_M\"\n} \n</script>",
+        "seoTitle": "Cozy Fall Fashion & Fall Outfits for Women | ANN TAYLOR",
+        "totalNumRecs": 79,
+        "categoryName": "AT All Luxewear",
+        "parentId": "cat3800019",
+        "lastRecNum": 18,
+        "templateURL": "",
+        "pagingActionTemplate": {
+            "navigationState": "/all-luxewear/cat3750001/?N=125370",
+            "contentPath": "/guidedsearch",
+            "@class": "com.endeca.infront.cartridge.model.NavigationAction",
+            "siteRootPath": "/services",
+            "label": null
+        },
+        "seoMetaName": "Cozy Fall Fashion & Fall Outfits for Women | ANN TAYLOR",
+        "catid": "cat3750001",
+        "parentCatName": "AT Luxewear",
+        "goToPage": "1",
+        "gridSize": "md",
+        "prdCount": 79,
+        "leftNavSlot": "<style>\n.leftnavimg {margin-top:30px;}\n</style>\n\n<div>\n<img class=\"leftnavimg\" src=\"/webassets/content/ann/nav/010118-leftnav-60nfp-flash-1.png\" alt=\"60% Off NFP\" usemap=\"#LeftNavMap\">\n<map name=\"LeftNavMap\">\n    <area href=\"/sale-view-all/cata000055?loc=Left-Nav_60NFP-Flash_Sale&ICID=Left-Nav_60NFP-Flash_Sale_010118\" coords=\"0,0,210,225\" shape=\"rect\">\n    <area href=\"/new-to-sale/cat2780050?loc=Left-Nav_60NFP-Flash_Sale&ICID=Left-Nav_60NFP-Flash_Sale_010118\" coords=\"0,225,210,299\" shape=\"rect\">\n</map>\n</div>",
+        "@type": "ResultsList",
+        "pageSize": "14",
+        "metaIndex": "true",
+        "metaFollow": "true",
+        "fRequest": false,
+        "canonicalURL": "https://www.anntaylor.com/all-luxewear/cat3750001",
+        "navimgWidth": "",
+        "seoMetaDesc": "Find the perfect cozy fall outfits at Ann Taylor. Shop our newest Luxewear collection, featuring comfortable fall pieces to mix and match the perfect outfit.",
+        "categoryBreadcrumbs": {
+            "subNav": {
+                "subNav": null,
+                "class": "com.at.endeca.assembler.vo.Navigation",
+                "attributes": {
+                    "categoryName": [
+                        "All Luxewear"
+                    ],
+                    "catId": [
+                        "cat3750001"
+                    ],
+                    "catUrl": [
+                        "/all-luxewear/cat3750001"
+                    ]
+                }
+            },
+            "class": "com.at.endeca.assembler.vo.Navigation",
+            "attributes": {
+                "categoryName": [
+                    "Luxewear"
+                ],
+                "catId": [
+                    "cat3800019"
+                ],
+                "catUrl": [
+                    "/luxewear/cat3800019"
+                ]
+            }
+        },
+        "catType": "regularCategory",
+        "firstRecNum": 1,
+        "nav": [
+            {
+                "subNav": [
+                    {
+                        "subNav": [],
+                        "class": "com.at.endeca.assembler.vo.SubNav",
+                        "attributes": {
+                            "selected": [
+                                true
+                            ],
+                            "catName": [
+                                "All Luxewear"
+                            ],
+                            "catid": [
+                                "cat3750001"
+                            ],
+                            "catUrl": [
+                                "/all-luxewear/cat3750001"
+                            ]
+                        }
+                    },
+                    {
+                        "subNav": [],
+                        "class": "com.at.endeca.assembler.vo.SubNav",
+                        "attributes": {
+                            "selected": [
+                                false
+                            ],
+                            "catName": [
+                                "Luxewear Tops + Jackets"
+                            ],
+                            "catid": [
+                                "cat3750002"
+                            ],
+                            "catUrl": [
+                                "/luxewear-tops/cat3750002"
+                            ]
+                        }
+                    },
+                    {
+                        "subNav": [],
+                        "class": "com.at.endeca.assembler.vo.SubNav",
+                        "attributes": {
+                            "selected": [
+                                false
+                            ],
+                            "catName": [
+                                "Luxewear Sweaters"
+                            ],
+                            "catid": [
+                                "cat3800018"
+                            ],
+                            "catUrl": [
+                                "/luxewear-sweaters/cat3800018"
+                            ]
+                        }
+                    },
+                    {
+                        "subNav": [],
+                        "class": "com.at.endeca.assembler.vo.SubNav",
+                        "attributes": {
+                            "selected": [
+                                false
+                            ],
+                            "catName": [
+                                "Luxewear Dresses"
+                            ],
+                            "catid": [
+                                "cat3800016"
+                            ],
+                            "catUrl": [
+                                "/luxewear-dresses/cat3800016"
+                            ]
+                        }
+                    },
+                    {
+                        "subNav": [],
+                        "class": "com.at.endeca.assembler.vo.SubNav",
+                        "attributes": {
+                            "selected": [
+                                false
+                            ],
+                            "catName": [
+                                "Luxewear Pants + Skirts"
+                            ],
+                            "catid": [
+                                "cat3750003"
+                            ],
+                            "catUrl": [
+                                "/luxewear-bottoms/cat3750003"
+                            ]
+                        }
+                    },
+                    {
+                        "subNav": [],
+                        "class": "com.at.endeca.assembler.vo.SubNav",
+                        "attributes": {
+                            "selected": [
+                                false
+                            ],
+                            "catName": [
+                                "Luxewear Accessories"
+                            ],
+                            "catid": [
+                                "cat3750004"
+                            ],
+                            "catUrl": [
+                                "/luxewear-accessories/cat3750004"
+                            ]
+                        }
+                    }
+                ],
+                "class": "com.at.endeca.assembler.vo.Nav",
+                "attributes": {
+                    "label": [
+                        "Luxewear"
+                    ],
+                    "type": [
+                        "Categories"
+                    ],
+                    "catid": [
+                        "cat3800019"
+                    ],
+                    "catUrl": [
+                        "/luxewear/cat3800019"
+                    ]
+                }
+            }
+        ],
+        "pagination": [
+            {
+                "pages": [
+                    {
+                        "class": "com.at.endeca.assembler.vo.Pages",
+                        "attributes": {
+                            "currentPage": [
+                                true
+                            ],
+                            "goToPage": [
+                                1
+                            ]
+                        }
+                    },
+                    {
+                        "class": "com.at.endeca.assembler.vo.Pages",
+                        "attributes": {
+                            "goToPage": [
+                                2
+                            ]
+                        }
+                    },
+                    {
+                        "class": "com.at.endeca.assembler.vo.Pages",
+                        "attributes": {
+                            "goToPage": [
+                                3
+                            ]
+                        }
+                    },
+                    {
+                        "class": "com.at.endeca.assembler.vo.Pages",
+                        "attributes": {
+                            "goToPage": [
+                                4
+                            ]
+                        }
+                    },
+                    {
+                        "class": "com.at.endeca.assembler.vo.Pages",
+                        "attributes": {
+                            "goToPage": [
+                                5
+                            ]
+                        }
+                    },
+                    {
+                        "class": "com.at.endeca.assembler.vo.Pages",
+                        "attributes": {
+                            "next": [
+                                true
+                            ],
+                            "goToPage": [
+                                2
+                            ]
+                        }
+                    }
+                ],
+                "class": "com.at.endeca.assembler.vo.Pagination",
+                "attributes": {
+                    "pagesAvailable": [
+                        5
+                    ]
+                }
+            }
+        ],
+        "records": [
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 7,
+                "attributes": {
+                    "defaultColourSku": [
+                        "2222"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24310710|2222"
+                    ],
+                    "colorExplodeForQuickLookUrl": [
+                        "true"
+                    ],
+                    "colorData": [
+                        "2222|Black|0,0,0      "
+                    ],
+                    "productData2.webShortDescription": [
+                        "Colorblock Mock Neck Sweater Dress"
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000012"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Colorblock Mock Neck Sweater Dress"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "common.id": [
+                        "sku-24310741..443446.catalog30002.en__US.611"
+                    ],
+                    "productData2.ratings.rating": [
+                        "4.3"
+                    ],
+                    "repositoryId": [
+                        "443446"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "true"
+                            ],
+                            "colorData": [
+                                "2222|Black|0,0,0      "
+                            ],
+                            "quickLookUrl": [
+                                "/colorblock-mock-neck-sweater-dress/443446?skuId=24310741&defaultColor=2222&colorExplode=true&catid=cata000012"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000012"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "129.000000"
+                            ],
+                            "defaultColourSku": [
+                                "2222"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24310710|2222"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Colorblock Mock Neck Sweater Dress"
+                            ],
+                            "productData2.ratings.rating": [
+                                "4.3"
+                            ],
+                            "colorFlag": [
+                                "false"
+                            ],
+                            "skuListPrice": [
+                                "129.0"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Black",
+                                    "red": "0",
+                                    "blue": "0",
+                                    "green": "0",
+                                    "url": "/colorblock-mock-neck-sweater-dress/443446?prodId=443446&defaultColor=2222&colorExplode=false&skuId=24310741"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "onlinePromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "443446"
+                            ],
+                            "productData2.ratings.image": [
+                                "/webassets/ann/en_US/assets/images/bazaarvoice/stars_blk_small/rating-4_3.gif"
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "10577"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=443446&swatchID=2222"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "2222"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24310741"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Colorblock Mock Neck Sweater Dress"
+                            ],
+                            "common.id": [
+                                "sku-24310741..443446.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 7,
+                "attributes": {
+                    "defaultColourSku": [
+                        "9040"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24296274|9040"
+                    ],
+                    "colorExplodeForQuickLookUrl": [
+                        "false"
+                    ],
+                    "colorData": [
+                        "9040|Ivory White|243,240,233"
+                    ],
+                    "productData2.webShortDescription": [
+                        "Striped Mock Neck Lantern Sleeve Top"
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000010"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Striped Mock Neck Lantern Sleeve Top"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "common.id": [
+                        "sku-24296434..451045.catalog30002.en__US.611"
+                    ],
+                    "productData2.ratings.rating": [
+                        "-1.0"
+                    ],
+                    "repositoryId": [
+                        "451045"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "false"
+                            ],
+                            "colorData": [
+                                "9040|Ivory White|243,240,233"
+                            ],
+                            "quickLookUrl": [
+                                "/striped-mock-neck-lantern-sleeve-top/451045?skuId=24296434&defaultColor=9040&colorExplode=false&catid=cata000010"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000010"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "59.500000"
+                            ],
+                            "defaultColourSku": [
+                                "9040"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24296274|9040"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Striped Mock Neck Lantern Sleeve Top"
+                            ],
+                            "productData2.ratings.rating": [
+                                "-1.0"
+                            ],
+                            "colorFlag": [
+                                "false"
+                            ],
+                            "skuListPrice": [
+                                "59.5"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Ivory White",
+                                    "red": "243",
+                                    "blue": "233",
+                                    "green": "240",
+                                    "url": "/striped-mock-neck-lantern-sleeve-top/451045?prodId=451045&defaultColor=9040&colorExplode=false&skuId=24296434"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "onlinePromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "451045"
+                            ],
+                            "productData2.ratings.image": [
+                                ""
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "4878"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=451045&swatchID=9040"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "9040"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24296434"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Striped Mock Neck Lantern Sleeve Top"
+                            ],
+                            "common.id": [
+                                "sku-24296434..451045.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 13,
+                "attributes": {
+                    "defaultColourSku": [
+                        "6912"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24273503|1362"
+                    ],
+                    "colorExplodeForQuickLookUrl": [
+                        "false"
+                    ],
+                    "colorData": [
+                        "1362|Night Sky|41,42,53   ",
+                        "6912|Cerulean Glow|55,119,216 "
+                    ],
+                    "productData2.webShortDescription": [
+                        "Split Neck Drawstring Top"
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000010"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Split Neck Drawstring Top"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "common.id": [
+                        "sku-24275798..443124.catalog30002.en__US.611"
+                    ],
+                    "productData2.ratings.rating": [
+                        "-1.0"
+                    ],
+                    "repositoryId": [
+                        "443124"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "false"
+                            ],
+                            "colorData": [
+                                "1362|Night Sky|41,42,53   ",
+                                "6912|Cerulean Glow|55,119,216 "
+                            ],
+                            "quickLookUrl": [
+                                "/split-neck-drawstring-top/443124?skuId=24275798&defaultColor=6912&colorExplode=false&catid=cata000010"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000010"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "79.500000"
+                            ],
+                            "defaultColourSku": [
+                                "6912"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24273503|1362"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Split Neck Drawstring Top"
+                            ],
+                            "productData2.ratings.rating": [
+                                "-1.0"
+                            ],
+                            "colorFlag": [
+                                "true"
+                            ],
+                            "skuListPrice": [
+                                "79.5"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Night Sky",
+                                    "red": "41",
+                                    "blue": "53",
+                                    "green": "42",
+                                    "url": "/split-neck-drawstring-top/443124?prodId=443124&defaultColor=1362&colorExplode=false&skuId=24275798"
+                                },
+                                {
+                                    "colorName": "Cerulean Glow",
+                                    "red": "55",
+                                    "blue": "216",
+                                    "green": "119",
+                                    "url": "/split-neck-drawstring-top/443124?prodId=443124&defaultColor=6912&colorExplode=false&skuId=24275798"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "onlinePromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "443124"
+                            ],
+                            "productData2.ratings.image": [
+                                ""
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "6518"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=443124&swatchID=6912"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "6912"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24275798"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Split Neck Drawstring Top"
+                            ],
+                            "common.id": [
+                                "sku-24275798..443124.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 7,
+                "attributes": {
+                    "defaultColourSku": [
+                        "1362"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24293334|1362"
+                    ],
+                    "colorExplodeForQuickLookUrl": [
+                        "false"
+                    ],
+                    "colorData": [
+                        "1362|Night Sky|41,42,53   "
+                    ],
+                    "productData2.webShortDescription": [
+                        "Ribbed Hi-Lo Turtleneck"
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000011"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Ribbed Hi-Lo Turtleneck"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "common.id": [
+                        "sku-24293358..452673.catalog30002.en__US.611"
+                    ],
+                    "productData2.ratings.rating": [
+                        "-1.0"
+                    ],
+                    "repositoryId": [
+                        "452673"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "false"
+                            ],
+                            "colorData": [
+                                "1362|Night Sky|41,42,53   "
+                            ],
+                            "quickLookUrl": [
+                                "/ribbed-hi-lo-turtleneck/452673?skuId=24293358&defaultColor=1362&colorExplode=false&catid=cata000011"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000011"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "98.000000"
+                            ],
+                            "defaultColourSku": [
+                                "1362"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24293334|1362"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Ribbed Hi-Lo Turtleneck"
+                            ],
+                            "productData2.ratings.rating": [
+                                "-1.0"
+                            ],
+                            "colorFlag": [
+                                "false"
+                            ],
+                            "skuListPrice": [
+                                "98.0"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Night Sky",
+                                    "red": "41",
+                                    "blue": "53",
+                                    "green": "42",
+                                    "url": "/ribbed-hi-lo-turtleneck/452673?prodId=452673&defaultColor=1362&colorExplode=false&skuId=24293358"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "onlinePromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "452673"
+                            ],
+                            "productData2.ratings.image": [
+                                ""
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "8035"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=452673&swatchID=1362"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "1362"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24293358"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Ribbed Hi-Lo Turtleneck"
+                            ],
+                            "common.id": [
+                                "sku-24293358..452673.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 7,
+                "attributes": {
+                    "defaultColourSku": [
+                        "1362"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24337298|1362"
+                    ],
+                    "colorExplodeForQuickLookUrl": [
+                        "false"
+                    ],
+                    "colorData": [
+                        "1362|Night Sky|41,42,53   "
+                    ],
+                    "productData2.webShortDescription": [
+                        "Side Stripe Track Pants"
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000014"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Side Stripe Track Pants"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "common.id": [
+                        "sku-24337632..452282.catalog30002.en__US.611"
+                    ],
+                    "productData2.ratings.rating": [
+                        "-1.0"
+                    ],
+                    "repositoryId": [
+                        "452282"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "false"
+                            ],
+                            "colorData": [
+                                "1362|Night Sky|41,42,53   "
+                            ],
+                            "quickLookUrl": [
+                                "/side-stripe-track-pants/452282?skuId=24337632&defaultColor=1362&colorExplode=false&catid=cata000014"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000014"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "98.000000"
+                            ],
+                            "defaultColourSku": [
+                                "1362"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24337298|1362"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Side Stripe Track Pants"
+                            ],
+                            "productData2.ratings.rating": [
+                                "-1.0"
+                            ],
+                            "colorFlag": [
+                                "false"
+                            ],
+                            "skuListPrice": [
+                                "98.0"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Night Sky",
+                                    "red": "41",
+                                    "blue": "53",
+                                    "green": "42",
+                                    "url": "/side-stripe-track-pants/452282?prodId=452282&defaultColor=1362&colorExplode=false&skuId=24337632"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "onlinePromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "452282"
+                            ],
+                            "productData2.ratings.image": [
+                                ""
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "8035"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=452282&swatchID=1362"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "1362"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24337632"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Side Stripe Track Pants"
+                            ],
+                            "common.id": [
+                                "sku-24337632..452282.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": null,
+                "numRecords": 0,
+                "attributes": {
+                    "content": [
+                        "<a href=\"/luxewear-look-1/cat490020?loc=PLP-Box-Luxewear_Look-1_DecMM&ICID=PLP-Box-Luxewear_Look-1_DecMM\" class=\"outfitM\"><img src=\"/webassets/content/ann/in-grid/121517-ingrid-luxewear.jpg\" alt=\"Luxewear\"></a>"
+                    ],
+                    "isSlot": [
+                        true
+                    ],
+                    "colSpan": [
+                        1
+                    ],
+                    "rowSpan": [
+                        1
+                    ]
+                },
+                "records": null
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 7,
+                "attributes": {
+                    "defaultColourSku": [
+                        "9040"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24274623|9040"
+                    ],
+                    "colorExplodeForQuickLookUrl": [
+                        "false"
+                    ],
+                    "colorData": [
+                        "9040|Ivory White|243,240,233"
+                    ],
+                    "productData2.webShortDescription": [
+                        "Striped Sleeveless Drawstring Top"
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000010"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Striped Sleeveless Drawstring Top"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "common.id": [
+                        "sku-24274661..447508.catalog30002.en__US.611"
+                    ],
+                    "productData2.ratings.rating": [
+                        "-1.0"
+                    ],
+                    "repositoryId": [
+                        "447508"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "false"
+                            ],
+                            "colorData": [
+                                "9040|Ivory White|243,240,233"
+                            ],
+                            "quickLookUrl": [
+                                "/striped-sleeveless-drawstring-top/447508?skuId=24274661&defaultColor=9040&colorExplode=false&catid=cata000010"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000010"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "59.500000"
+                            ],
+                            "defaultColourSku": [
+                                "9040"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24274623|9040"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Striped Sleeveless Drawstring Top"
+                            ],
+                            "productData2.ratings.rating": [
+                                "-1.0"
+                            ],
+                            "colorFlag": [
+                                "false"
+                            ],
+                            "skuListPrice": [
+                                "59.5"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Ivory White",
+                                    "red": "243",
+                                    "blue": "233",
+                                    "green": "240",
+                                    "url": "/striped-sleeveless-drawstring-top/447508?prodId=447508&defaultColor=9040&colorExplode=false&skuId=24274661"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "onlinePromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "447508"
+                            ],
+                            "productData2.ratings.image": [
+                                ""
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "4878"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=447508&swatchID=9040"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "9040"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24274661"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Striped Sleeveless Drawstring Top"
+                            ],
+                            "common.id": [
+                                "sku-24274661..447508.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 7,
+                "attributes": {
+                    "defaultColourSku": [
+                        "2222"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24293631|2222"
+                    ],
+                    "colorExplodeForQuickLookUrl": [
+                        "false"
+                    ],
+                    "colorData": [
+                        "2222|Black|0,0,0      "
+                    ],
+                    "productData2.webShortDescription": [
+                        "Colorblock Bell Sleeve Sweater"
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000011"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Colorblock Bell Sleeve Sweater"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "common.id": [
+                        "sku-24293679..453329.catalog30002.en__US.611"
+                    ],
+                    "productData2.ratings.rating": [
+                        "5.0"
+                    ],
+                    "repositoryId": [
+                        "453329"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "false"
+                            ],
+                            "colorData": [
+                                "2222|Black|0,0,0      "
+                            ],
+                            "quickLookUrl": [
+                                "/colorblock-bell-sleeve-sweater/453329?skuId=24293679&defaultColor=2222&colorExplode=false&catid=cata000011"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000011"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "89.500000"
+                            ],
+                            "defaultColourSku": [
+                                "2222"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24293631|2222"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Colorblock Bell Sleeve Sweater"
+                            ],
+                            "productData2.ratings.rating": [
+                                "5.0"
+                            ],
+                            "colorFlag": [
+                                "false"
+                            ],
+                            "skuListPrice": [
+                                "89.5"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Black",
+                                    "red": "0",
+                                    "blue": "0",
+                                    "green": "0",
+                                    "url": "/colorblock-bell-sleeve-sweater/453329?prodId=453329&defaultColor=2222&colorExplode=false&skuId=24293679"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "onlinePromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "453329"
+                            ],
+                            "productData2.ratings.image": [
+                                "/webassets/ann/en_US/assets/images/bazaarvoice/stars_blk_small/rating-5_0.gif"
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "7338"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=453329&swatchID=2222"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "2222"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24293679"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Colorblock Bell Sleeve Sweater"
+                            ],
+                            "common.id": [
+                                "sku-24293679..453329.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 7,
+                "attributes": {
+                    "defaultColourSku": [
+                        "2222"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24239356|2222"
+                    ],
+                    "colorExplodeForQuickLookUrl": [
+                        "true"
+                    ],
+                    "colorData": [
+                        "2222|Black|0,0,0      "
+                    ],
+                    "productData2.webShortDescription": [
+                        "Striped Lantern Sleeve Shift Dress"
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000012"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Striped Lantern Sleeve Shift Dress"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "common.id": [
+                        "sku-24240208..454763.catalog30002.en__US.611"
+                    ],
+                    "productData2.ratings.rating": [
+                        "-1.0"
+                    ],
+                    "repositoryId": [
+                        "454763"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "true"
+                            ],
+                            "colorData": [
+                                "2222|Black|0,0,0      "
+                            ],
+                            "quickLookUrl": [
+                                "/striped-lantern-sleeve-shift-dress/454763?skuId=24240208&defaultColor=2222&colorExplode=true&catid=cata000012"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000012"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "129.000000"
+                            ],
+                            "defaultColourSku": [
+                                "2222"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24239356|2222"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Striped Lantern Sleeve Shift Dress"
+                            ],
+                            "productData2.ratings.rating": [
+                                "-1.0"
+                            ],
+                            "colorFlag": [
+                                "false"
+                            ],
+                            "skuListPrice": [
+                                "129.0"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Black",
+                                    "red": "0",
+                                    "blue": "0",
+                                    "green": "0",
+                                    "url": "/striped-lantern-sleeve-shift-dress/454763?prodId=454763&defaultColor=2222&colorExplode=false&skuId=24240208"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "onlinePromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "454763"
+                            ],
+                            "productData2.ratings.image": [
+                                ""
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "10577"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=454763&swatchID=2222"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "2222"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24240208"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Striped Lantern Sleeve Shift Dress"
+                            ],
+                            "common.id": [
+                                "sku-24240208..454763.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 21,
+                "attributes": {
+                    "colorExplodeForQuickLookUrl": [
+                        "false"
+                    ],
+                    "colorData": [
+                        "2222|Black|0,0,0      ",
+                        "6328|Pale Heather Grey|237,238,242",
+                        "6965|Mulled Wine|109,52,69"
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000011"
+                    ],
+                    "availableDefColorList": [
+                        "cat3630020|6328",
+                        "cat3750001|2222",
+                        "cata00008|2222"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "repositoryId": [
+                        "452091"
+                    ],
+                    "defaultColourSku": [
+                        "6328"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24293037|2222"
+                    ],
+                    "productData2.webShortDescription": [
+                        "Ribbed Shawl Collar Open Cardigan"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Ribbed Shawl Collar Open Cardigan"
+                    ],
+                    "productData2.ratings.rating": [
+                        "5.0"
+                    ],
+                    "common.id": [
+                        "sku-24293037..452091.catalog30002.en__US.611"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "false"
+                            ],
+                            "colorData": [
+                                "2222|Black|0,0,0      ",
+                                "6328|Pale Heather Grey|237,238,242",
+                                "6965|Mulled Wine|109,52,69"
+                            ],
+                            "quickLookUrl": [
+                                "/ribbed-shawl-collar-open-cardigan/452091?skuId=24293037&defaultColor=2222&colorExplode=false&catid=cata000011"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000011"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "98.000000"
+                            ],
+                            "defaultColourSku": [
+                                "6328"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24293037|2222"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Ribbed Shawl Collar Open Cardigan"
+                            ],
+                            "productData2.ratings.rating": [
+                                "5.0"
+                            ],
+                            "colorFlag": [
+                                "true"
+                            ],
+                            "skuListPrice": [
+                                "98.0"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Black",
+                                    "red": "0",
+                                    "blue": "0",
+                                    "green": "0",
+                                    "url": "/ribbed-shawl-collar-open-cardigan/452091?prodId=452091&defaultColor=2222&colorExplode=false&skuId=24293037"
+                                },
+                                {
+                                    "colorName": "Pale Heather Grey",
+                                    "red": "237",
+                                    "blue": "242",
+                                    "green": "238",
+                                    "url": "/ribbed-shawl-collar-open-cardigan/452091?prodId=452091&defaultColor=6328&colorExplode=false&skuId=24293037"
+                                },
+                                {
+                                    "colorName": "Mulled Wine",
+                                    "red": "109",
+                                    "blue": "69",
+                                    "green": "52",
+                                    "url": "/ribbed-shawl-collar-open-cardigan/452091?prodId=452091&defaultColor=6965&colorExplode=false&skuId=24293037"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "onlinePromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "availableDefColorList": [
+                                "cat3630020|6328",
+                                "cat3750001|2222",
+                                "cata00008|2222"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "452091"
+                            ],
+                            "productData2.ratings.image": [
+                                "/webassets/ann/en_US/assets/images/bazaarvoice/stars_blk_small/rating-5_0.gif"
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "8035"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=452091&swatchID=2222"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "2222"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24293037"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Ribbed Shawl Collar Open Cardigan"
+                            ],
+                            "common.id": [
+                                "sku-24293037..452091.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 7,
+                "attributes": {
+                    "defaultColourSku": [
+                        "9040"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24275200|9040"
+                    ],
+                    "colorExplodeForQuickLookUrl": [
+                        "false"
+                    ],
+                    "colorData": [
+                        "9040|Ivory White|243,240,233"
+                    ],
+                    "productData2.webShortDescription": [
+                        "Striped Split Neck Drawstring Top"
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000010"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Striped Split Neck Drawstring Top"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "common.id": [
+                        "sku-24275231..451781.catalog30002.en__US.611"
+                    ],
+                    "productData2.ratings.rating": [
+                        "-1.0"
+                    ],
+                    "repositoryId": [
+                        "451781"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "false"
+                            ],
+                            "colorData": [
+                                "9040|Ivory White|243,240,233"
+                            ],
+                            "quickLookUrl": [
+                                "/striped-split-neck-drawstring-top/451781?skuId=24275231&defaultColor=9040&colorExplode=false&catid=cata000010"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000010"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "79.500000"
+                            ],
+                            "defaultColourSku": [
+                                "9040"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24275200|9040"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Striped Split Neck Drawstring Top"
+                            ],
+                            "productData2.ratings.rating": [
+                                "-1.0"
+                            ],
+                            "colorFlag": [
+                                "false"
+                            ],
+                            "skuListPrice": [
+                                "79.5"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Ivory White",
+                                    "red": "243",
+                                    "blue": "233",
+                                    "green": "240",
+                                    "url": "/striped-split-neck-drawstring-top/451781?prodId=451781&defaultColor=9040&colorExplode=false&skuId=24275231"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "onlinePromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "451781"
+                            ],
+                            "productData2.ratings.image": [
+                                ""
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "6518"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=451781&swatchID=9040"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "9040"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24275231"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Striped Split Neck Drawstring Top"
+                            ],
+                            "common.id": [
+                                "sku-24275231..451781.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 14,
+                "attributes": {
+                    "colorExplodeForQuickLookUrl": [
+                        "false"
+                    ],
+                    "colorData": [
+                        "2222|Black|0,0,0      ",
+                        "6912|Cerulean Glow|55,119,216 "
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000010"
+                    ],
+                    "availableDefColorList": [
+                        "cat2090006|2222"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "repositoryId": [
+                        "454207"
+                    ],
+                    "defaultColourSku": [
+                        "6912"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24296366|2222"
+                    ],
+                    "productData2.webShortDescription": [
+                        "Ruched Tie Sleeve Top"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Ruched Tie Sleeve Top"
+                    ],
+                    "productData2.ratings.rating": [
+                        "-1.0"
+                    ],
+                    "common.id": [
+                        "sku-24296663..454207.catalog30002.en__US.611"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "false"
+                            ],
+                            "colorData": [
+                                "2222|Black|0,0,0      ",
+                                "6912|Cerulean Glow|55,119,216 "
+                            ],
+                            "quickLookUrl": [
+                                "/ruched-tie-sleeve-top/454207?skuId=24296663&defaultColor=6912&colorExplode=false&catid=cata000010"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000010"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "49.500000"
+                            ],
+                            "defaultColourSku": [
+                                "6912"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24296366|2222"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Ruched Tie Sleeve Top"
+                            ],
+                            "productData2.ratings.rating": [
+                                "-1.0"
+                            ],
+                            "colorFlag": [
+                                "true"
+                            ],
+                            "skuListPrice": [
+                                "49.5"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Black",
+                                    "red": "0",
+                                    "blue": "0",
+                                    "green": "0",
+                                    "url": "/ruched-tie-sleeve-top/454207?prodId=454207&defaultColor=2222&colorExplode=false&skuId=24296663"
+                                },
+                                {
+                                    "colorName": "Cerulean Glow",
+                                    "red": "55",
+                                    "blue": "216",
+                                    "green": "119",
+                                    "url": "/ruched-tie-sleeve-top/454207?prodId=454207&defaultColor=6912&colorExplode=false&skuId=24296663"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "onlinePromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "availableDefColorList": [
+                                "cat2090006|2222"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "454207"
+                            ],
+                            "productData2.ratings.image": [
+                                ""
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "4059"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=454207&swatchID=6912"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "6912"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24296663"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Ruched Tie Sleeve Top"
+                            ],
+                            "common.id": [
+                                "sku-24296663..454207.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 7,
+                "attributes": {
+                    "defaultColourSku": [
+                        "1362"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24293150|1362"
+                    ],
+                    "colorExplodeForQuickLookUrl": [
+                        "false"
+                    ],
+                    "colorData": [
+                        "1362|Night Sky|41,42,53   "
+                    ],
+                    "productData2.webShortDescription": [
+                        "Merino Wool Paneled Coatigan"
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000011"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Merino Wool Paneled Coatigan"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "common.id": [
+                        "sku-24293600..455148.catalog30002.en__US.611"
+                    ],
+                    "productData2.ratings.rating": [
+                        "5.0"
+                    ],
+                    "repositoryId": [
+                        "455148"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "false"
+                            ],
+                            "colorData": [
+                                "1362|Night Sky|41,42,53   "
+                            ],
+                            "quickLookUrl": [
+                                "/merino-wool-paneled-coatigan/455148?skuId=24293600&defaultColor=1362&colorExplode=false&catid=cata000011"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000011"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "149.000000"
+                            ],
+                            "defaultColourSku": [
+                                "1362"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24293150|1362"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Merino Wool Paneled Coatigan"
+                            ],
+                            "productData2.ratings.rating": [
+                                "5.0"
+                            ],
+                            "colorFlag": [
+                                "false"
+                            ],
+                            "skuListPrice": [
+                                "149.0"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Night Sky",
+                                    "red": "41",
+                                    "blue": "53",
+                                    "green": "42",
+                                    "url": "/merino-wool-paneled-coatigan/455148?prodId=455148&defaultColor=1362&colorExplode=false&skuId=24293600"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "onlinePromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "455148"
+                            ],
+                            "productData2.ratings.image": [
+                                "/webassets/ann/en_US/assets/images/bazaarvoice/stars_blk_small/rating-5_0.gif"
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "12217"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=455148&swatchID=1362"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "1362"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24293600"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Merino Wool Paneled Coatigan"
+                            ],
+                            "common.id": [
+                                "sku-24293600..455148.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 20,
+                "attributes": {
+                    "colorExplodeForQuickLookUrl": [
+                        "false"
+                    ],
+                    "colorData": [
+                        "1362|Night Sky|41,42,53   ",
+                        "6912|Cerulean Glow|55,119,216 ",
+                        "9040|Ivory White|243,240,233"
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000010"
+                    ],
+                    "availableDefColorList": [
+                        "cat3630020|6912",
+                        "cata00008|6912"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "repositoryId": [
+                        "457726"
+                    ],
+                    "defaultColourSku": [
+                        "6912"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24469937|1362"
+                    ],
+                    "productData2.webShortDescription": [
+                        "Contrast Stitch Tee"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Contrast Stitch Tee"
+                    ],
+                    "productData2.ratings.rating": [
+                        "5.0"
+                    ],
+                    "common.id": [
+                        "sku-24469975..457726.catalog30002.en__US.611"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "false"
+                            ],
+                            "colorData": [
+                                "1362|Night Sky|41,42,53   ",
+                                "6912|Cerulean Glow|55,119,216 ",
+                                "9040|Ivory White|243,240,233"
+                            ],
+                            "quickLookUrl": [
+                                "/contrast-stitch-tee/457726?skuId=24469975&defaultColor=6912&colorExplode=false&catid=cata000010"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000010"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "59.500000"
+                            ],
+                            "defaultColourSku": [
+                                "6912"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24469937|1362"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Contrast Stitch Tee"
+                            ],
+                            "productData2.ratings.rating": [
+                                "5.0"
+                            ],
+                            "colorFlag": [
+                                "true"
+                            ],
+                            "skuListPrice": [
+                                "59.5"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Night Sky",
+                                    "red": "41",
+                                    "blue": "53",
+                                    "green": "42",
+                                    "url": "/contrast-stitch-tee/457726?prodId=457726&defaultColor=1362&colorExplode=false&skuId=24469975"
+                                },
+                                {
+                                    "colorName": "Cerulean Glow",
+                                    "red": "55",
+                                    "blue": "216",
+                                    "green": "119",
+                                    "url": "/contrast-stitch-tee/457726?prodId=457726&defaultColor=6912&colorExplode=false&skuId=24469975"
+                                },
+                                {
+                                    "colorName": "Ivory White",
+                                    "red": "243",
+                                    "blue": "233",
+                                    "green": "240",
+                                    "url": "/contrast-stitch-tee/457726?prodId=457726&defaultColor=9040&colorExplode=false&skuId=24469975"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "onlinePromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "availableDefColorList": [
+                                "cat3630020|6912",
+                                "cata00008|6912"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "457726"
+                            ],
+                            "productData2.ratings.image": [
+                                "/webassets/ann/en_US/assets/images/bazaarvoice/stars_blk_small/rating-5_0.gif"
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "4878"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=457726&swatchID=6912"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "1362"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24469975"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Contrast Stitch Tee"
+                            ],
+                            "common.id": [
+                                "sku-24469975..457726.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 7,
+                "attributes": {
+                    "defaultColourSku": [
+                        "6307"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24216616|6307"
+                    ],
+                    "colorExplodeForQuickLookUrl": [
+                        "false"
+                    ],
+                    "colorData": [
+                        "6307|Gravel Melange|null"
+                    ],
+                    "productData2.webShortDescription": [
+                        "Side Stripe Track Pants"
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000014"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Side Stripe Track Pants"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "common.id": [
+                        "sku-24216678..451782.catalog30002.en__US.611"
+                    ],
+                    "productData2.ratings.rating": [
+                        "-1.0"
+                    ],
+                    "repositoryId": [
+                        "451782"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "false"
+                            ],
+                            "colorData": [
+                                "6307|Gravel Melange|null"
+                            ],
+                            "quickLookUrl": [
+                                "/side-stripe-track-pants/451782?skuId=24216678&defaultColor=6307&colorExplode=false&catid=cata000014"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000014"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "98.000000"
+                            ],
+                            "defaultColourSku": [
+                                "6307"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24216616|6307"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Side Stripe Track Pants"
+                            ],
+                            "productData2.ratings.rating": [
+                                "-1.0"
+                            ],
+                            "colorFlag": [
+                                "false"
+                            ],
+                            "skuListPrice": [
+                                "98.0"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Gravel Melange",
+                                    "red": "null",
+                                    "blue": "0",
+                                    "green": "0",
+                                    "url": "/side-stripe-track-pants/451782?prodId=451782&defaultColor=6307&colorExplode=false&skuId=24216678"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "onlinePromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "451782"
+                            ],
+                            "productData2.ratings.image": [
+                                ""
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "8035"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=451782&swatchID=6307"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "6307"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24216678"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Side Stripe Track Pants"
+                            ],
+                            "common.id": [
+                                "sku-24216678..451782.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 14,
+                "attributes": {
+                    "colorExplodeForQuickLookUrl": [
+                        "false"
+                    ],
+                    "colorData": [
+                        "1362|Night Sky|41,42,53   ",
+                        "3800|Warm Grey Heather|221,217,216"
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000010"
+                    ],
+                    "onlinePromoMessages": [
+                        "Online Exclusive"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "repositoryId": [
+                        "447265"
+                    ],
+                    "defaultColourSku": [
+                        "3800"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24296076|3800"
+                    ],
+                    "productData2.webShortDescription": [
+                        "Tie Sleeve Sweatshirt"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Tie Sleeve Sweatshirt"
+                    ],
+                    "productData2.ratings.rating": [
+                        "4.7"
+                    ],
+                    "common.id": [
+                        "sku-24296557..447265.catalog30002.en__US.611"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "false"
+                            ],
+                            "colorData": [
+                                "1362|Night Sky|41,42,53   ",
+                                "3800|Warm Grey Heather|221,217,216"
+                            ],
+                            "quickLookUrl": [
+                                "/tie-sleeve-sweatshirt/447265?skuId=24296557&defaultColor=3800&colorExplode=false&catid=cata000010"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000010"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "69.500000"
+                            ],
+                            "defaultColourSku": [
+                                "3800"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24296076|3800"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Tie Sleeve Sweatshirt"
+                            ],
+                            "productData2.ratings.rating": [
+                                "4.7"
+                            ],
+                            "colorFlag": [
+                                "true"
+                            ],
+                            "skuListPrice": [
+                                "69.5"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Night Sky",
+                                    "red": "41",
+                                    "blue": "53",
+                                    "green": "42",
+                                    "url": "/tie-sleeve-sweatshirt/447265?prodId=447265&defaultColor=1362&colorExplode=false&skuId=24296557"
+                                },
+                                {
+                                    "colorName": "Warm Grey Heather",
+                                    "red": "221",
+                                    "blue": "216",
+                                    "green": "217",
+                                    "url": "/tie-sleeve-sweatshirt/447265?prodId=447265&defaultColor=3800&colorExplode=false&skuId=24296557"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "onlinePromoMessages": [
+                                "Online Exclusive"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "447265"
+                            ],
+                            "productData2.ratings.image": [
+                                "/webassets/ann/en_US/assets/images/bazaarvoice/stars_blk_small/rating-4_7.gif"
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "5698"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=447265&swatchID=3800"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "1362"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24296557"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Tie Sleeve Sweatshirt"
+                            ],
+                            "common.id": [
+                                "sku-24296557..447265.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 7,
+                "attributes": {
+                    "defaultColourSku": [
+                        "2222"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24310949|2222"
+                    ],
+                    "colorExplodeForQuickLookUrl": [
+                        "true"
+                    ],
+                    "colorData": [
+                        "2222|Black|0,0,0      "
+                    ],
+                    "productData2.webShortDescription": [
+                        "Striped Slit Cuff Sweater Dress"
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000012"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Striped Slit Cuff Sweater Dress"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "common.id": [
+                        "sku-24310987..444319.catalog30002.en__US.611"
+                    ],
+                    "productData2.ratings.rating": [
+                        "-1.0"
+                    ],
+                    "repositoryId": [
+                        "444319"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "true"
+                            ],
+                            "colorData": [
+                                "2222|Black|0,0,0      "
+                            ],
+                            "quickLookUrl": [
+                                "/striped-slit-cuff-sweater-dress/444319?skuId=24310987&defaultColor=2222&colorExplode=true&catid=cata000012"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000012"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "149.000000"
+                            ],
+                            "defaultColourSku": [
+                                "2222"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24310949|2222"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Striped Slit Cuff Sweater Dress"
+                            ],
+                            "productData2.ratings.rating": [
+                                "-1.0"
+                            ],
+                            "colorFlag": [
+                                "false"
+                            ],
+                            "skuListPrice": [
+                                "149.0"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Black",
+                                    "red": "0",
+                                    "blue": "0",
+                                    "green": "0",
+                                    "url": "/striped-slit-cuff-sweater-dress/444319?prodId=444319&defaultColor=2222&colorExplode=false&skuId=24310987"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "onlinePromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "444319"
+                            ],
+                            "productData2.ratings.image": [
+                                ""
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "12217"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=444319&swatchID=2222"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "2222"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24310987"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Striped Slit Cuff Sweater Dress"
+                            ],
+                            "common.id": [
+                                "sku-24310987..444319.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 7,
+                "attributes": {
+                    "defaultColourSku": [
+                        "2222"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24274371|2222"
+                    ],
+                    "colorExplodeForQuickLookUrl": [
+                        "false"
+                    ],
+                    "colorData": [
+                        "2222|Black|0,0,0      "
+                    ],
+                    "productData2.webShortDescription": [
+                        "Sleeveless Drawstring Top"
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000010"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Sleeveless Drawstring Top"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "common.id": [
+                        "sku-24274371..447509.catalog30002.en__US.611"
+                    ],
+                    "productData2.ratings.rating": [
+                        "-1.0"
+                    ],
+                    "repositoryId": [
+                        "447509"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "false"
+                            ],
+                            "colorData": [
+                                "2222|Black|0,0,0      "
+                            ],
+                            "quickLookUrl": [
+                                "/sleeveless-drawstring-top/447509?skuId=24274371&defaultColor=2222&colorExplode=false&catid=cata000010"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000010"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "59.500000"
+                            ],
+                            "defaultColourSku": [
+                                "2222"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24274371|2222"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Sleeveless Drawstring Top"
+                            ],
+                            "productData2.ratings.rating": [
+                                "-1.0"
+                            ],
+                            "colorFlag": [
+                                "false"
+                            ],
+                            "skuListPrice": [
+                                "59.5"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Black",
+                                    "red": "0",
+                                    "blue": "0",
+                                    "green": "0",
+                                    "url": "/sleeveless-drawstring-top/447509?prodId=447509&defaultColor=2222&colorExplode=false&skuId=24274371"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "onlinePromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "447509"
+                            ],
+                            "productData2.ratings.image": [
+                                ""
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "4878"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=447509&swatchID=2222"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "2222"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24274371"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Sleeveless Drawstring Top"
+                            ],
+                            "common.id": [
+                                "sku-24274371..447509.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            },
+            {
+                "@class": "com.endeca.infront.cartridge.model.Record",
+                "detailsAction": {
+                    "recordState": "?",
+                    "contentPath": "/recorddetails",
+                    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                },
+                "numRecords": 7,
+                "attributes": {
+                    "defaultColourSku": [
+                        "9040"
+                    ],
+                    "FinalPrice_SKU": [
+                        "24338448|9040"
+                    ],
+                    "colorExplodeForQuickLookUrl": [
+                        "false"
+                    ],
+                    "colorData": [
+                        "9040|Ivory White|243,240,233"
+                    ],
+                    "productData2.webShortDescription": [
+                        "Stripe Ruched Tie Sleeve Top"
+                    ],
+                    "colorExplodeCatId": [
+                        "cata000010"
+                    ],
+                    "productData.colorExplode": [
+                        "0"
+                    ],
+                    "displayName": [
+                        "Stripe Ruched Tie Sleeve Top"
+                    ],
+                    "product.siteId": [
+                        "611"
+                    ],
+                    "common.id": [
+                        "sku-24339001..454205.catalog30002.en__US.611"
+                    ],
+                    "productData2.ratings.rating": [
+                        "5.0"
+                    ],
+                    "repositoryId": [
+                        "454205"
+                    ]
+                },
+                "records": [
+                    {
+                        "@class": "com.endeca.infront.cartridge.model.Record",
+                        "detailsAction": {
+                            "recordState": "?",
+                            "contentPath": "/recorddetails",
+                            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+                            "siteRootPath": "/services",
+                            "label": null
+                        },
+                        "numRecords": 0,
+                        "attributes": {
+                            "colorExplodeForQuickLookUrl": [
+                                "false"
+                            ],
+                            "colorData": [
+                                "9040|Ivory White|243,240,233"
+                            ],
+                            "quickLookUrl": [
+                                "/stripe-ruched-tie-sleeve-top/454205?skuId=24339001&defaultColor=9040&colorExplode=false&catid=cata000010"
+                            ],
+                            "colorExplodeCatId": [
+                                "cata000010"
+                            ],
+                            "childSKUs.priceWasCents": [
+                                "00"
+                            ],
+                            "childSKUs.price": [
+                                "49.500000"
+                            ],
+                            "defaultColourSku": [
+                                "9040"
+                            ],
+                            "FinalPrice_SKU": [
+                                "24338448|9040"
+                            ],
+                            "childSKUs.priceWasSymbol": [
+                                "INR"
+                            ],
+                            "productData2.webShortDescription": [
+                                "Stripe Ruched Tie Sleeve Top"
+                            ],
+                            "productData2.ratings.rating": [
+                                "5.0"
+                            ],
+                            "colorFlag": [
+                                "false"
+                            ],
+                            "skuListPrice": [
+                                "49.5"
+                            ],
+                            "colors": [
+                                {
+                                    "colorName": "Ivory White",
+                                    "red": "243",
+                                    "blue": "233",
+                                    "green": "240",
+                                    "url": "/stripe-ruched-tie-sleeve-top/454205?prodId=454205&defaultColor=9040&colorExplode=false&skuId=24339001"
+                                }
+                            ],
+                            "explicitPromoMessages": [
+                                null
+                            ],
+                            "onlinePromoMessages": [
+                                null
+                            ],
+                            "childSKUs.saleFlags.effectiveMarkdown": [
+                                "0"
+                            ],
+                            "product.siteId": [
+                                "611"
+                            ],
+                            "promoMessages": [],
+                            "repositoryId": [
+                                "454205"
+                            ],
+                            "productData2.ratings.image": [
+                                "/webassets/ann/en_US/assets/images/bazaarvoice/stars_blk_small/rating-5_0.gif"
+                            ],
+                            "childSKUs.priceWasDollars": [
+                                "4059"
+                            ],
+                            "gridImg": [
+                                "https://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000652&recipeName=gmd325x400&itemID=454205&swatchID=9040"
+                            ],
+                            "childSKUs.skuData2.colorCode.colorCode": [
+                                "9040"
+                            ],
+                            "childSKUs.repositoryId": [
+                                "24339001"
+                            ],
+                            "marketingPromoMessages": [
+                                null
+                            ],
+                            "productData.colorExplode": [
+                                "0"
+                            ],
+                            "displayName": [
+                                "Stripe Ruched Tie Sleeve Top"
+                            ],
+                            "common.id": [
+                                "sku-24339001..454205.catalog30002.en__US.611"
+                            ],
+                            "finalSaleMessage": [
+                                null
+                            ],
+                            "childSKUs.sizeType": [
+                                "0Regular"
+                            ]
+                        },
+                        "records": null
+                    }
+                ]
+            }
+        ],
+        "displayName": "All Luxewear",
+        "precomputedSorts": []
+    },
+    "selectedRefinement": [],
+    "zones": {
+        "@type": "ContentSlotList"
+    },
+    "endeca:siteRootPath": "/services",
+    "breadcrumbs": {
+        "removeAllAction": {
+            "navigationState": "?",
+            "contentPath": "/guidedsearch",
+            "@class": "com.endeca.infront.cartridge.model.NavigationAction",
+            "siteRootPath": "/services",
+            "label": null
+        },
+        "refinementCrumbs": [
+            {
+                "multiSelect": false,
+                "count": 79,
+                "@class": "com.endeca.infront.cartridge.model.RefinementBreadcrumb",
+                "ancestors": [
+                    {
+                        "navigationState": "/luxewear/cat3800019/?N=125363",
+                        "contentPath": "/guidedsearch",
+                        "@class": "com.endeca.infront.cartridge.model.Ancestor",
+                        "siteRootPath": "/services",
+                        "label": "AT Luxewear",
+                        "properties": {
+                            "DisplayOrder": "0",
+                            "category_name": "Luxewear",
+                            "category.siteId": "611",
+                            "hidden": "0",
+                            "category.rootCatalogId": "catalog30002",
+                            "active": "1",
+                            "category.ancestorCatalogIds": "catalog30002",
+                            "category.repositoryId": "cat3800019",
+                            "SourceId": "cat3800019",
+                            "category.catalogs.repositoryId": "catalog30002"
+                        }
+                    }
+                ],
+                "label": "AT All Luxewear",
+                "properties": {
+                    "DisplayOrder": "0",
+                    "category_name": "All Luxewear",
+                    "dimValId": "125370",
+                    "category.siteId": "611",
+                    "hidden": "0",
+                    "category.rootCatalogId": "catalog30002",
+                    "active": "1",
+                    "category.ancestorCatalogIds": "catalog30002",
+                    "category.repositoryId": "cat3750001",
+                    "SourceId": "cat3800019.cat3750001",
+                    "category.catalogs.repositoryId": "catalog30002"
+                },
+                "displayName": "Category",
+                "dimensionName": "product.category",
+                "removeAction": {
+                    "navigationState": "?",
+                    "contentPath": "/guidedsearch",
+                    "@class": "com.endeca.infront.cartridge.model.NavigationAction",
+                    "siteRootPath": "/services",
+                    "label": null
+                }
+            }
+        ],
+        "geoFilterCrumb": null,
+        "@type": "Breadcrumbs",
+        "searchCrumbs": [],
+        "rangeFilterCrumbs": []
+    }
+}

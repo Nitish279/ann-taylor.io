@@ -21,6 +21,11 @@ body {
     height: auto;
 }
 
+.p_lr_init{
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
 
 
 /*Top Header CSS*/
@@ -143,6 +148,7 @@ body {
 
 .main_banner_block iframe{
 	height: 437px;
+	margin-top: -16px;
 }
 
 
@@ -150,4 +156,105 @@ body {
 	position: absolute;
 	top: 0;
 	left: 0;
+}
+
+
+/*Breadcrumb*/
+.breadcrumb_block,
+.current_category_block{
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+	    margin-bottom: 16px;
+}
+
+.breadcrumb_block .breadcrumb{
+	background-color: transparent;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.breadcrumb a{
+	color: #000000;
+	font-weight: 500;
+}
+
+.current_category_block p{
+	margin-bottom: 0;
+	margin-top: -6px;
+	font-size: 24px;
+	font-weight: 500;
+	padding-right: 30px;
+	text-align: right;
+}
+
+
+/*Left Navigation*/
+
+.left_navigation_wrap{
+	margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+.left_navigation_wrap dt{
+	margin-bottom: 6px;
+	font-weight: 500;
+	font-size: 15px;
+}
+
+.left_navigation_wrap dd{
+	padding-left: 16px;
+    margin-bottom: 6px;
+    font-size: 15px;
+}
+
+.left_navigation_wrap dd a:hover{
+	text-decoration: none;
+}
+
+.left_navigation_wrap dd a{
+	color: #000;
+}
+
+/*Product Listing Page*/
+
+.product_listing_block{
+	margin-bottom: 16px;
+	margin-top: 16px;
+}
+
+.product_listing_block a {
+    color: #000;
+    
+    display: block;
+    position: relative;
+}
+
+.product_listing_block a:hover{
+	text-decoration: none;
+	color: #000;
+}
+
+.product_listing_block figure {
+    margin-bottom: 5px;
+    position: relative;
+}
+
+.product_listing_block figure img {
+	display: block;
+    width: 100%;
+}
+
+.product_listing_block a strong {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-align: center;
+    display: block;
+}
+
+.product_listing_block span {
+    color: #000;
+    font-size: 11px;
+    text-align: center;
+    display: inline-block;
 }

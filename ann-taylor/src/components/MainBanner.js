@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Container, Row } from 'reactstrap';
 import YouTube from 'react-youtube';
 
-class BannerImg extends React.Component {
+class BannerImg extends Component {
 	constructor() {
 		super();
 		this.state = {
@@ -35,7 +35,6 @@ class BannerImg extends React.Component {
   	}
 };
 
-
 class MainBanner extends Component {
 
 	_onReady = (event) => {
@@ -48,13 +47,6 @@ class MainBanner extends Component {
 	}
 
 	render() {
-		const opts = {
-			height: '390',
-			playerVars: {
-				autoplay: 1
-			}
-		};
-
 		return(
 			<div>
 				<Container>
@@ -63,7 +55,6 @@ class MainBanner extends Component {
 							<BannerImg onClick={this.playVideo.bind(this)} />
 							<YouTube
 								videoId="vfj0rObjO_M"
-								opts={opts}
 								onReady={this._onReady}
 							/>
 						</div>
