@@ -91,20 +91,14 @@ class ProductListing extends Component {
 				var tempColorData = tempData.colorData[l];
 				rgbColorArray.push(tempColorData.split("|")[2].trim());
 			}
-
-			// console.log("rgbColorArray", rgbColorArray);
 		}
 
-		// let arrOfObj = {};
+		var gridImgObj = gridImgArray.reduce(function(acc, cur, i) {
+			acc[i] = cur;
+			return acc;
+		}, {});
 
-		// var result = gridImgArray.map(function(el) {
-		// 	console.log("el", el);
-		// 	var o = Object.assign({}, el);
-		// 	o.gridImg = el;
-		// 	return o;
-		// })
-
-		// console.log("result", result);
+		console.log("gridImgObj", gridImgObj);
 
 
 
@@ -117,14 +111,14 @@ class ProductListing extends Component {
 		// console.log("productData2.ratings.image", tempData["productData2.ratings.image"][0]);
 
 
-		console.log("gridImgArray", gridImgArray);
-		console.log("displayNameArray", displayNameArray);
-		console.log("onlinePromoMessagesArray", onlinePromoMessagesArray);
-		console.log("priceWasDollarsArray", priceWasDollarsArray);
-		console.log("priceSaleDollarsArray", priceSaleDollarsArray);
-		console.log("priceListDollarsArray", priceListDollarsArray);
-		console.log("ratingImageArray", ratingImageArray);
-		console.log("rgbColorArray", rgbColorArray);
+		// console.log("gridImgArray", gridImgArray);
+		// console.log("displayNameArray", displayNameArray);
+		// console.log("onlinePromoMessagesArray", onlinePromoMessagesArray);
+		// console.log("priceWasDollarsArray", priceWasDollarsArray);
+		// console.log("priceSaleDollarsArray", priceSaleDollarsArray);
+		// console.log("priceListDollarsArray", priceListDollarsArray);
+		// console.log("ratingImageArray", ratingImageArray);
+		// console.log("rgbColorArray", rgbColorArray);
 
 	}
 
